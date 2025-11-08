@@ -1,3 +1,4 @@
+## Eink MQTT
 This Arduino eink display subscribes to different MQTT topics and display various info depending on time of day.
 
 ![alt tag](/img/pic.png)
